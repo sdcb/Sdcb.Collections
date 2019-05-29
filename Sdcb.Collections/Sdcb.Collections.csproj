@@ -7,6 +7,18 @@
     <Description>BidirectionalDictionary created from https://github.com/dotnet/corefxlab/pull/2613</Description>
     <Copyright>MIT</Copyright>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageProjectUrl>https://github.com/sdcb/sdcb.collections</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/sdcb/sdcb.collections</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <Version>1.0.1</Version>
+    <PackageReleaseNotes></PackageReleaseNotes>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.SourceLink.GitHub" Version="1.0.0-beta2-19270-01">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
 
 </Project>
