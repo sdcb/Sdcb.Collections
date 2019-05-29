@@ -4,9 +4,9 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageTags>BidirectionalDictionary</PackageTags>
-    <Description>Create from https://github.com/dotnet/corefxlab/pull/2613</Description>
+    <Description>BidirectionalDictionary created from https://github.com/dotnet/corefxlab/pull/2613</Description>
     <Copyright>MIT</Copyright>
-    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
   </PropertyGroup>
 
 </Project>
