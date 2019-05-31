@@ -1,6 +1,6 @@
 # Sdcb.Collections
 
-# BidirectionalDictionary<TFirst, TSecond>
+## BidirectionalDictionary<TFirst, TSecond>
 Copied from https://github.com/dotnet/corefxlab/pull/2613
 
 Example: 
