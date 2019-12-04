@@ -1,4 +1,4 @@
-# Sdcb.Collections
+# Sdcb.Collections [![NuGet](https://img.shields.io/nuget/v/Sdcb.Collections.svg)](https://www.nuget.org/packages/Sdcb.Collections)
 
 ## BidirectionalDictionary<TFirst, TSecond>
 Copied from https://github.com/dotnet/corefxlab/pull/2613
